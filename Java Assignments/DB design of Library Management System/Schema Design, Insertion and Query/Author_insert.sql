@@ -1,0 +1,11 @@
+INSERT INTO Author(AuthorId,FirstName,LastName) VALUES
+(1,"R.K", "Narayan"),
+(2,"Rohald", "Dahl"),
+(3,"Rohald", "Dahl"),
+(4,"",""),
+(5,"R.K","Narayan"),
+(6,"X","Y"),
+(7,"Stieg","Drgon"),
+(8,"Ruth","Warry"),
+(9,"George","Lucas"),
+(10,"John","Ronald"),

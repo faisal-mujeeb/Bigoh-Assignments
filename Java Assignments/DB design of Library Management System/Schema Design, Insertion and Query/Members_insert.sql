@@ -1,0 +1,11 @@
+INSERT INTO Members(Member_Id , FirstName, LastName,Email,PhoneNumber,Adress) VALUES
+(1,"Abin","Alex","abinalex@gmail.com","9234567821","New Delhi"),
+(2,"Akif","Shah","akifshah1@gmail.com","9242567821","Old Delhi"),
+(3,"Abhay","Chaudhray","abhaych@gmail.com","9234568721","New Delhi"),
+(4,"Faisal","Mujeeb","fm@gmail.com","9234567831","New Delhi"),
+(5,"Fayez","Zaid","fayezzaid@gmail.com","9234567800","New Delhi"),
+(6,"Chetan","Singh","chetansingh@gmail.com","9234500821","New Delhi"),
+(7,"Aditya","Bora","boraadit@gmail.com","9200567821","New Delhi"),
+(8,"Ayush","Rawat","rawatayush@gmail.com","9234567811","New Delhi"),
+(9,"Akshay","Singh","akshays@gmail.com","9234567822","New Delhi"),
+(10,"Abhishek","Kumar","kumarakshay@gmail.com","9934567821","New Delhi"),
